@@ -1,0 +1,18 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+
+}
+
+body{
+    background-color: chocolate;
+
+}
+
+main{
+    background-color: white;
+    width: none;
+    margin: auto;
+    box-shadow: black;
+    padding: 10px;
+}
